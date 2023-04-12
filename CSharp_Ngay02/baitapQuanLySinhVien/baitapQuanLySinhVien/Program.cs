@@ -53,7 +53,7 @@ class Program
                 case 3:
                     Console.WriteLine("3.Sort by mark:");
                     stlist.SortByMark();
-                    Console.WriteLine("Danh sách sinh viên sau khi sắp xếp là:")
+                    Console.WriteLine("Danh sách sinh viên sau khi sắp xếp là:");
                     stlist.Display();
                     break;
                 case 4:
