@@ -1,0 +1,8 @@
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\DemoVonglap\Bai2_TimMax\bin\Debug\Bai2_TimMax.exe.config
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\DemoVonglap\Bai2_TimMax\bin\Debug\Bai2_TimMax.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\DemoVonglap\Bai2_TimMax\bin\Debug\Bai2_TimMax.pdb
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\DemoVonglap\Bai2_TimMax\obj\Debug\Bai2_TimMax.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\DemoVonglap\Bai2_TimMax\obj\Debug\Bai2_TimMax.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\DemoVonglap\Bai2_TimMax\obj\Debug\Bai2_TimMax.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\DemoVonglap\Bai2_TimMax\obj\Debug\Bai2_TimMax.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\DemoVonglap\Bai2_TimMax\obj\Debug\Bai2_TimMax.pdb

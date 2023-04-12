@@ -1,0 +1,14 @@
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\bin\Debug\netcoreapp3.1\Bai5.exe
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\bin\Debug\netcoreapp3.1\Bai5.deps.json
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\bin\Debug\netcoreapp3.1\Bai5.runtimeconfig.json
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\bin\Debug\netcoreapp3.1\Bai5.runtimeconfig.dev.json
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\bin\Debug\netcoreapp3.1\Bai5.dll
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\bin\Debug\netcoreapp3.1\Bai5.pdb
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\obj\Debug\netcoreapp3.1\Bai5.csproj.AssemblyReference.cache
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\obj\Debug\netcoreapp3.1\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\obj\Debug\netcoreapp3.1\Bai5.AssemblyInfoInputs.cache
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\obj\Debug\netcoreapp3.1\Bai5.AssemblyInfo.cs
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\obj\Debug\netcoreapp3.1\Bai5.csproj.CoreCompileInputs.cache
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\obj\Debug\netcoreapp3.1\Bai5.dll
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\obj\Debug\netcoreapp3.1\Bai5.pdb
+D:\FAI\SEM2\C#\BaiTapVongLap\Bai5\obj\Debug\netcoreapp3.1\Bai5.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Mang\bin\Debug\Project02_Mang.exe.config
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Mang\bin\Debug\Project02_Mang.exe
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Mang\bin\Debug\Project02_Mang.pdb
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Mang\obj\Debug\Project04_Mang.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Mang\obj\Debug\Project04_Mang.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Mang\obj\Debug\Project04_Mang.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Mang\obj\Debug\Project02_Mang.exe
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Mang\obj\Debug\Project02_Mang.pdb

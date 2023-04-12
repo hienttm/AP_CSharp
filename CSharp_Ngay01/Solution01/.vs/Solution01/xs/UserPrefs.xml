@@ -1,0 +1,34 @@
+﻿<Properties DisableMonoRequiredInfoBar="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project03_Vonglap/Program.cs">
+    <Files>
+      <File FileName="Project03_Vonglap/Program.cs" Line="1" Column="1" />
+      <File FileName="Project05_OOP/Program.cs" Line="1" Column="1" />
+      <File FileName="Project02_Renhanh/Program.cs" />
+      <File FileName="Project02_Mang/Program.cs" />
+      <File FileName="Project05_OOP/Properties/AssemblyInfo.cs" />
+      <File FileName="Project01/Program.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Solution01" expanded="True">
+            <Node name="Project01" expanded="True" />
+            <Node name="Project02_Renhanh" expanded="True" selected="True" />
+            <Node name="Project03_Vonglap" expanded="True" />
+            <Node name="Project04_Mang" expanded="True" />
+            <Node name="Project05_OOP" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

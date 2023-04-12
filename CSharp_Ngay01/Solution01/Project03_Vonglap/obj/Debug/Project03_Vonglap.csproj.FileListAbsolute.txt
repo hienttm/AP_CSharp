@@ -1,0 +1,8 @@
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project03_Vonglap\bin\Debug\Project03_Vonglap.exe.config
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project03_Vonglap\bin\Debug\Project03_Vonglap.exe
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project03_Vonglap\bin\Debug\Project03_Vonglap.pdb
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project03_Vonglap\obj\Debug\Project03_Vonglap.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project03_Vonglap\obj\Debug\Project03_Vonglap.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project03_Vonglap\obj\Debug\Project03_Vonglap.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project03_Vonglap\obj\Debug\Project03_Vonglap.exe
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project03_Vonglap\obj\Debug\Project03_Vonglap.pdb

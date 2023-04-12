@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E5AD7164-310E-4AEB-ADE8-48A162BAC687}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.project07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Project02_Renhanh/Program.cs">
+    <Files>
+      <File FileName="project07/Program.cs" />
+      <File FileName="project07/Student.cs" />
+      <File FileName="project07/democlass.cs" />
+      <File FileName="../Project02_Renhanh/Program.cs" Line="14" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="project07" expanded="True">
+            <Node name="project07" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,8 @@
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Renhanh\bin\Debug\Project02_Renhanh.exe.config
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Renhanh\bin\Debug\Project02_Renhanh.exe
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Renhanh\bin\Debug\Project02_Renhanh.pdb
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Renhanh\obj\Debug\Project02_Renhanh.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Renhanh\obj\Debug\Project02_Renhanh.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Renhanh\obj\Debug\Project02_Renhanh.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Renhanh\obj\Debug\Project02_Renhanh.exe
+D:\FPTEdu\T2205M\AP_CSharp\AP_Ngay01\Solution01\Project02_Renhanh\obj\Debug\Project02_Renhanh.pdb

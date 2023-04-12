@@ -1,0 +1,15 @@
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/baitap07.csproj.AssemblyReference.cache
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/baitap07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/baitap07.AssemblyInfoInputs.cache
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/baitap07.AssemblyInfo.cs
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/baitap07.csproj.CoreCompileInputs.cache
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/bin/Debug/net7.0/baitap07
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/bin/Debug/net7.0/baitap07.deps.json
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/bin/Debug/net7.0/baitap07.runtimeconfig.json
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/bin/Debug/net7.0/baitap07.dll
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/bin/Debug/net7.0/baitap07.pdb
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/baitap07.dll
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/refint/baitap07.dll
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/baitap07.pdb
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/baitap07.genruntimeconfig.cache
+/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay01/baitapMang/baitap07/baitap07/obj/Debug/net7.0/ref/baitap07.dll
