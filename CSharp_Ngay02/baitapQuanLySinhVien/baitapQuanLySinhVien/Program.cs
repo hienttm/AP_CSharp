@@ -64,9 +64,13 @@ class Program
                     if (k == -1)
                     {
                         Console.WriteLine("Không có sinh viên cần tìm.");
+
                     }
-                    Console.WriteLine("Thông tin sinh viên cần tìm là: ");
-                    stlist.list[k].display();
+                    else
+                    {
+                        Console.WriteLine("Thông tin sinh viên cần tìm là: ");
+                        stlist.list[k].display();
+                    }
                     break;
                 case 5:
                     Console.WriteLine("Kết thúc chương trình! ");

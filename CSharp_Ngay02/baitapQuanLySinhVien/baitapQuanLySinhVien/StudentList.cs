@@ -50,9 +50,9 @@ namespace baitapQuanLySinhVien
 		{
 			//Console.WriteLine("Vui lòng nhập họ tên sinh viên cần tìm:");
 			//key = Console.ReadLine();
-			for(int i = 0; i < list.Length; i++)
+			for(int i = 0; i < n; i++)
 			{
-				if (list[i].name.Contains(key) == true)
+				if (list[i].name.CompareTo(key)==0)
 				{
 					return i;
 				}
