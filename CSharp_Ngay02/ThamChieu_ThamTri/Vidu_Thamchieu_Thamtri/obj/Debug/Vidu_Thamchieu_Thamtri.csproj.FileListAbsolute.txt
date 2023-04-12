@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\bin\Debug\Vidu_Thamchieu_Thamtri.exe.config
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\bin\Debug\Vidu_Thamchieu_Thamtri.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\bin\Debug\Vidu_Thamchieu_Thamtri.pdb
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\bin\Debug\Vidu_Thamchieu_Thamtri.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\bin\Debug\Vidu_Thamchieu_Thamtri.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\bin\Debug\Vidu_Thamchieu_Thamtri.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Vidu_Thamchieu_Thamtri\obj\Debug\Vidu_Thamchieu_Thamtri.pdb

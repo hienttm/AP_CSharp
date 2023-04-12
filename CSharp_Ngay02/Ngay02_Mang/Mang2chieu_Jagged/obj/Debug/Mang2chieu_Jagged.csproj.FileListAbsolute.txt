@@ -1,0 +1,8 @@
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Ngay02_Mang\Mang2chieu_Jagged\bin\Debug\Mang2chieu_Jagged.exe.config
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Ngay02_Mang\Mang2chieu_Jagged\bin\Debug\Mang2chieu_Jagged.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Ngay02_Mang\Mang2chieu_Jagged\bin\Debug\Mang2chieu_Jagged.pdb
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Ngay02_Mang\Mang2chieu_Jagged\obj\Debug\Mang2chieu_Jagged.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Ngay02_Mang\Mang2chieu_Jagged\obj\Debug\Mang2chieu_Jagged.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Ngay02_Mang\Mang2chieu_Jagged\obj\Debug\Mang2chieu_Jagged.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Ngay02_Mang\Mang2chieu_Jagged\obj\Debug\Mang2chieu_Jagged.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Ngay02_Mang\Mang2chieu_Jagged\obj\Debug\Mang2chieu_Jagged.pdb
