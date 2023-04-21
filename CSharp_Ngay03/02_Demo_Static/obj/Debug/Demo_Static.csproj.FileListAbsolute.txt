@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Static\bin\Debug\Demo_Static.exe.config
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Static\bin\Debug\Demo_Static.exe
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Static\bin\Debug\Demo_Static.pdb
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Static\obj\Debug\Demo_Static.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Static\obj\Debug\Demo_Static.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Static\obj\Debug\Demo_Static.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Static\obj\Debug\Demo_Static.exe
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Static\obj\Debug\Demo_Static.pdb

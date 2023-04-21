@@ -1,0 +1,8 @@
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Thamchieu_Thamtri_Ontap\obj\Debug\Thamchieu_Thamtri_Ontap.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Thamchieu_Thamtri_Ontap\obj\Debug\Thamchieu_Thamtri_Ontap.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Thamchieu_Thamtri_Ontap\obj\Debug\Thamchieu_Thamtri_Ontap.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Thamchieu_Thamtri_Ontap\bin\Debug\Thamchieu_Thamtri_Ontap.exe.config
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Thamchieu_Thamtri_Ontap\bin\Debug\Thamchieu_Thamtri_Ontap.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Thamchieu_Thamtri_Ontap\bin\Debug\Thamchieu_Thamtri_Ontap.pdb
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Thamchieu_Thamtri_Ontap\obj\Debug\Thamchieu_Thamtri_Ontap.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Thamchieu_Thamtri_Ontap\obj\Debug\Thamchieu_Thamtri_Ontap.pdb

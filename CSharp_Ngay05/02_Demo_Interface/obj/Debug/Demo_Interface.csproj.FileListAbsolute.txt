@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Interface\obj\Debug\Demo_Interface.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Interface\obj\Debug\Demo_Interface.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Interface\obj\Debug\Demo_Interface.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Interface\bin\Debug\Demo_Interface.exe.config
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Interface\bin\Debug\Demo_Interface.exe
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Interface\bin\Debug\Demo_Interface.pdb
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Interface\obj\Debug\Demo_Interface.exe
+D:\FPTEdu\T2104E\AP\Ngay06\Demo_Interface\obj\Debug\Demo_Interface.pdb

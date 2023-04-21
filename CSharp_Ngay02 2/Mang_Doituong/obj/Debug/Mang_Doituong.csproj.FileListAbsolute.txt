@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\AP\Ngay05\Mang_Doituong\bin\Debug\Mang_Doituong.exe.config
+D:\FPTEdu\T2104E\AP\Ngay05\Mang_Doituong\bin\Debug\Mang_Doituong.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Mang_Doituong\bin\Debug\Mang_Doituong.pdb
+D:\FPTEdu\T2104E\AP\Ngay05\Mang_Doituong\obj\Debug\Mang_Doituong.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Mang_Doituong\obj\Debug\Mang_Doituong.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Mang_Doituong\obj\Debug\Mang_Doituong.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Mang_Doituong\obj\Debug\Mang_Doituong.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Mang_Doituong\obj\Debug\Mang_Doituong.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Mang_Doituong\bin\Debug\Mang_Doituong.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Mang_Doituong\bin\Debug\Mang_Doituong.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Mang_Doituong\bin\Debug\Mang_Doituong.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Mang_Doituong\obj\Debug\Mang_Doituong.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Mang_Doituong\obj\Debug\Mang_Doituong.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Mang_Doituong\obj\Debug\Mang_Doituong.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Mang_Doituong\obj\Debug\Mang_Doituong.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Mang_Doituong\obj\Debug\Mang_Doituong.pdb

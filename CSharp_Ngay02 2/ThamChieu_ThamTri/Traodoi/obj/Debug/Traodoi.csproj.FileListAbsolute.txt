@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Traodoi\bin\Debug\Traodoi.exe.config
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Traodoi\bin\Debug\Traodoi.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Traodoi\bin\Debug\Traodoi.pdb
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Traodoi\bin\Debug\Traodoi.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Traodoi\bin\Debug\Traodoi.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Traodoi\bin\Debug\Traodoi.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Traodoi\obj\Debug\Traodoi.pdb

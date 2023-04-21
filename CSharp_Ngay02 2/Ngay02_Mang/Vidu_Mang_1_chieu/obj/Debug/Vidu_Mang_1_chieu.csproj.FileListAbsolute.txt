@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Vidu_Mang_1_chieu\bin\Debug\Vidu_Mang_1_chieu.exe.config
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Vidu_Mang_1_chieu\bin\Debug\Vidu_Mang_1_chieu.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Vidu_Mang_1_chieu\bin\Debug\Vidu_Mang_1_chieu.pdb
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.pdb
+D:\FPTEdu\T2111E_AP\Ngay03_Thamkhao\Ngay03_Mang\Vidu_Mang_1_chieu\bin\Debug\Vidu_Mang_1_chieu.exe.config
+D:\FPTEdu\T2111E_AP\Ngay03_Thamkhao\Ngay03_Mang\Vidu_Mang_1_chieu\bin\Debug\Vidu_Mang_1_chieu.exe
+D:\FPTEdu\T2111E_AP\Ngay03_Thamkhao\Ngay03_Mang\Vidu_Mang_1_chieu\bin\Debug\Vidu_Mang_1_chieu.pdb
+D:\FPTEdu\T2111E_AP\Ngay03_Thamkhao\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\Ngay03_Thamkhao\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\Ngay03_Thamkhao\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\Ngay03_Thamkhao\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.exe
+D:\FPTEdu\T2111E_AP\Ngay03_Thamkhao\Ngay03_Mang\Vidu_Mang_1_chieu\obj\Debug\Vidu_Mang_1_chieu.pdb

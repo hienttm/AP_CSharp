@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Ref_va_Out\bin\Debug\Ref_va_Out.exe.config
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Ref_va_Out\bin\Debug\Ref_va_Out.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Ref_va_Out\bin\Debug\Ref_va_Out.pdb
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Ref_va_Out\bin\Debug\Ref_va_Out.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Ref_va_Out\bin\Debug\Ref_va_Out.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Ref_va_Out\bin\Debug\Ref_va_Out.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay02\ThamChieu_ThamTri\Ref_va_Out\obj\Debug\Ref_va_Out.pdb

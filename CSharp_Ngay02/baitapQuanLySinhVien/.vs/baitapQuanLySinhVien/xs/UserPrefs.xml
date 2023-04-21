@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{79A44C70-B236-4ECE-ADDD-47BDCCC70BE7}|Default">
-  <MonoDevelop.Ide.ItemProperties.baitapQuanLySinhVien FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.baitapQuanLySinhVien PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="baitapQuanLySinhVien/Student.cs">
+    <Files>
+      <File FileName="../Ngay02_Mang/Bai02_Nhap_Xuat_Mang1chieu/Program.cs" />
+      <File FileName="baitapQuanLySinhVien/Program.cs" Line="62" Column="34" />
+      <File FileName="baitapQuanLySinhVien/Student.cs" Line="10" Column="29" />
+      <File FileName="baitapQuanLySinhVien/StudentList.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="baitapQuanLySinhVien" expanded="True">
+            <Node name="baitapQuanLySinhVien" expanded="True">
+              <Node name="Student.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

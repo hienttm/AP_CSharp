@@ -70,10 +70,13 @@ class Program
                     {
                         Console.WriteLine("Thông tin sinh viên cần tìm là: ");
                         stlist.list[k].display();
-                    }
+                    } 
                     break;
                 case 5:
                     Console.WriteLine("Kết thúc chương trình! ");
+                    break;
+                default:
+                    Console.WriteLine(" Nhập từ (1-5) !");
                     break;
                 
             }

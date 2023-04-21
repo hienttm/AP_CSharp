@@ -1,0 +1,8 @@
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\DemoLopTrutuong\bin\Debug\DemoLopTrutuong.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\DemoLopTrutuong\bin\Debug\DemoLopTrutuong.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\DemoLopTrutuong\bin\Debug\DemoLopTrutuong.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\DemoLopTrutuong\obj\Debug\DemoLopTrutuong.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\DemoLopTrutuong\obj\Debug\DemoLopTrutuong.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\DemoLopTrutuong\obj\Debug\DemoLopTrutuong.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\DemoLopTrutuong\obj\Debug\DemoLopTrutuong.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\DemoLopTrutuong\obj\Debug\DemoLopTrutuong.pdb

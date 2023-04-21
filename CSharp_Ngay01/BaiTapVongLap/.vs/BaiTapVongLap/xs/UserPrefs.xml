@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{D7335C1D-B5E9-4B45-AD77-F80A8C9626CE}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Bai2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Bai4/Program.cs">
     <Files>
-      <File FileName="Bai3/Program.cs" Line="1" Column="1" />
-      <File FileName="Bai2/Program.cs" Line="19" Column="18" />
+      <File FileName="Bai3/Program.cs" />
+      <File FileName="Bai2/Program.cs" />
       <File FileName="Bai4/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
@@ -22,11 +21,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Bai3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Bai1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Bai2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Bai1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Bai3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

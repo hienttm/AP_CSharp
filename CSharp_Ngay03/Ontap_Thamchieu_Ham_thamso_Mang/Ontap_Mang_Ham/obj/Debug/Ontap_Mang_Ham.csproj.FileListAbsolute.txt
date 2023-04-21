@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay04\Ontap_Mang_Ham\bin\Debug\Ontap_Mang_Ham.exe.config
+D:\FPTEdu\T2104E\AP\Ngay04\Ontap_Mang_Ham\bin\Debug\Ontap_Mang_Ham.exe
+D:\FPTEdu\T2104E\AP\Ngay04\Ontap_Mang_Ham\bin\Debug\Ontap_Mang_Ham.pdb
+D:\FPTEdu\T2104E\AP\Ngay04\Ontap_Mang_Ham\obj\Debug\Ontap_Mang_Ham.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay04\Ontap_Mang_Ham\obj\Debug\Ontap_Mang_Ham.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay04\Ontap_Mang_Ham\obj\Debug\Ontap_Mang_Ham.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay04\Ontap_Mang_Ham\obj\Debug\Ontap_Mang_Ham.exe
+D:\FPTEdu\T2104E\AP\Ngay04\Ontap_Mang_Ham\obj\Debug\Ontap_Mang_Ham.pdb

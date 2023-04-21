@@ -1,0 +1,8 @@
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay05\Demo_Mang_Thamchieu\Demo_Mang_Thamchieu\bin\Debug\Demo_Mang_Thamchieu.exe.config
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay05\Demo_Mang_Thamchieu\Demo_Mang_Thamchieu\bin\Debug\Demo_Mang_Thamchieu.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay05\Demo_Mang_Thamchieu\Demo_Mang_Thamchieu\bin\Debug\Demo_Mang_Thamchieu.pdb
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay05\Demo_Mang_Thamchieu\Demo_Mang_Thamchieu\obj\Debug\Demo_Mang_Thamchieu.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay05\Demo_Mang_Thamchieu\Demo_Mang_Thamchieu\obj\Debug\Demo_Mang_Thamchieu.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay05\Demo_Mang_Thamchieu\Demo_Mang_Thamchieu\obj\Debug\Demo_Mang_Thamchieu.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay05\Demo_Mang_Thamchieu\Demo_Mang_Thamchieu\obj\Debug\Demo_Mang_Thamchieu.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay05\Demo_Mang_Thamchieu\Demo_Mang_Thamchieu\obj\Debug\Demo_Mang_Thamchieu.pdb

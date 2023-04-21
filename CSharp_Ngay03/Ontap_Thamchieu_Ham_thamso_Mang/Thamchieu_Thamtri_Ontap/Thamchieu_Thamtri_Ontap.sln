@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thamchieu_Thamtri_Ontap", "Thamchieu_Thamtri_Ontap\Thamchieu_Thamtri_Ontap.csproj", "{E032389E-74D5-433D-80A1-30F2551DA687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref_va_Out", "Ref_va_Out\Ref_va_Out.csproj", "{AFE6E26D-BD81-4AD4-86D9-561AFA20DDC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E032389E-74D5-433D-80A1-30F2551DA687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E032389E-74D5-433D-80A1-30F2551DA687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E032389E-74D5-433D-80A1-30F2551DA687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E032389E-74D5-433D-80A1-30F2551DA687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE6E26D-BD81-4AD4-86D9-561AFA20DDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE6E26D-BD81-4AD4-86D9-561AFA20DDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE6E26D-BD81-4AD4-86D9-561AFA20DDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE6E26D-BD81-4AD4-86D9-561AFA20DDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF592C9-3C27-4E6A-83B2-21C71CB7114A}
+	EndGlobalSection
+EndGlobal

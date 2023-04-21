@@ -1,0 +1,3 @@
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Ref_va_Out\obj\Debug\Ref_va_Out.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Ref_va_Out\obj\Debug\Ref_va_Out.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay02\Thamchieu_Thamtri_Ontap\Ref_va_Out\obj\Debug\Ref_va_Out.csproj.CoreCompileInputs.cache

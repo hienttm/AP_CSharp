@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay04\Baitap_Thamchieu_PTB2\bin\Debug\Baitap_Thamchieu_PTB2.exe.config
+D:\FPTEdu\T2104E\AP\Ngay04\Baitap_Thamchieu_PTB2\bin\Debug\Baitap_Thamchieu_PTB2.exe
+D:\FPTEdu\T2104E\AP\Ngay04\Baitap_Thamchieu_PTB2\bin\Debug\Baitap_Thamchieu_PTB2.pdb
+D:\FPTEdu\T2104E\AP\Ngay04\Baitap_Thamchieu_PTB2\obj\Debug\Baitap_Thamchieu_PTB2.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay04\Baitap_Thamchieu_PTB2\obj\Debug\Baitap_Thamchieu_PTB2.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay04\Baitap_Thamchieu_PTB2\obj\Debug\Baitap_Thamchieu_PTB2.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay04\Baitap_Thamchieu_PTB2\obj\Debug\Baitap_Thamchieu_PTB2.exe
+D:\FPTEdu\T2104E\AP\Ngay04\Baitap_Thamchieu_PTB2\obj\Debug\Baitap_Thamchieu_PTB2.pdb

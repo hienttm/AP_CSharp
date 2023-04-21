@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Bai02_Nhap_Xuat_Mang1chieu\bin\Debug\Bai02_Nhap_Xuat_Mang1chieu.exe.config
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Bai02_Nhap_Xuat_Mang1chieu\bin\Debug\Bai02_Nhap_Xuat_Mang1chieu.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Bai02_Nhap_Xuat_Mang1chieu\bin\Debug\Bai02_Nhap_Xuat_Mang1chieu.pdb
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Bai02_Nhap_Xuat_Mang1chieu\obj\Debug\Bai02_Nhap_Xuat_Mang1chieu.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Bai02_Nhap_Xuat_Mang1chieu\obj\Debug\Bai02_Nhap_Xuat_Mang1chieu.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Bai02_Nhap_Xuat_Mang1chieu\obj\Debug\Bai02_Nhap_Xuat_Mang1chieu.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Bai02_Nhap_Xuat_Mang1chieu\obj\Debug\Bai02_Nhap_Xuat_Mang1chieu.exe
+D:\FPTEdu\T2104E\VisualStudio\Ngay03\Ngay03_Mang\Bai02_Nhap_Xuat_Mang1chieu\obj\Debug\Bai02_Nhap_Xuat_Mang1chieu.pdb

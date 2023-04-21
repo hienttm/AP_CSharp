@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\AP\Ngay04\Demo_Class\bin\Debug\Demo_Class.exe.config
+D:\FPTEdu\T2104E\AP\Ngay04\Demo_Class\bin\Debug\Demo_Class.exe
+D:\FPTEdu\T2104E\AP\Ngay04\Demo_Class\bin\Debug\Demo_Class.pdb
+D:\FPTEdu\T2104E\AP\Ngay04\Demo_Class\obj\Debug\Demo_Class.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay04\Demo_Class\obj\Debug\Demo_Class.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay04\Demo_Class\obj\Debug\Demo_Class.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay04\Demo_Class\obj\Debug\Demo_Class.exe
+D:\FPTEdu\T2104E\AP\Ngay04\Demo_Class\obj\Debug\Demo_Class.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Demo_Class\bin\Debug\Demo_Class.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Demo_Class\bin\Debug\Demo_Class.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Demo_Class\bin\Debug\Demo_Class.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Demo_Class\obj\Debug\Demo_Class.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Demo_Class\obj\Debug\Demo_Class.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Demo_Class\obj\Debug\Demo_Class.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Demo_Class\obj\Debug\Demo_Class.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay03\Demo_Class\obj\Debug\Demo_Class.pdb

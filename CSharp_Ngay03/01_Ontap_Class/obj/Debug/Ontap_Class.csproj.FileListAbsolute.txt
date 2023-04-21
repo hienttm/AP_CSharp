@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay05\Ontap_Class\bin\Debug\Ontap_Class.exe.config
+D:\FPTEdu\T2104E\AP\Ngay05\Ontap_Class\bin\Debug\Ontap_Class.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Ontap_Class\bin\Debug\Ontap_Class.pdb
+D:\FPTEdu\T2104E\AP\Ngay05\Ontap_Class\obj\Debug\Ontap_Class.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Ontap_Class\obj\Debug\Ontap_Class.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Ontap_Class\obj\Debug\Ontap_Class.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Ontap_Class\obj\Debug\Ontap_Class.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Ontap_Class\obj\Debug\Ontap_Class.pdb

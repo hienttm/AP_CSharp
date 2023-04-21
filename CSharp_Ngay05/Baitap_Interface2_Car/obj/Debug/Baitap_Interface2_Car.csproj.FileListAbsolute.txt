@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay08\Baitap_Interface2_Car\bin\Debug\Baitap_Interface2_Car.exe.config
+D:\FPTEdu\T2104E\AP\Ngay08\Baitap_Interface2_Car\bin\Debug\Baitap_Interface2_Car.exe
+D:\FPTEdu\T2104E\AP\Ngay08\Baitap_Interface2_Car\bin\Debug\Baitap_Interface2_Car.pdb
+D:\FPTEdu\T2104E\AP\Ngay08\Baitap_Interface2_Car\obj\Debug\Baitap_Interface2_Car.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay08\Baitap_Interface2_Car\obj\Debug\Baitap_Interface2_Car.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay08\Baitap_Interface2_Car\obj\Debug\Baitap_Interface2_Car.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay08\Baitap_Interface2_Car\obj\Debug\Baitap_Interface2_Car.exe
+D:\FPTEdu\T2104E\AP\Ngay08\Baitap_Interface2_Car\obj\Debug\Baitap_Interface2_Car.pdb

@@ -1,0 +1,8 @@
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Demo_giaodien\obj\Debug\Demo_giaodien.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Demo_giaodien\obj\Debug\Demo_giaodien.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Demo_giaodien\obj\Debug\Demo_giaodien.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Demo_giaodien\bin\Debug\Demo_giaodien.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Demo_giaodien\bin\Debug\Demo_giaodien.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Demo_giaodien\bin\Debug\Demo_giaodien.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Demo_giaodien\obj\Debug\Demo_giaodien.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Demo_giaodien\obj\Debug\Demo_giaodien.pdb

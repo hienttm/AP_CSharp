@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\AP\Ngay05\Kethua\bin\Debug\Kethua.exe.config
+D:\FPTEdu\T2104E\AP\Ngay05\Kethua\bin\Debug\Kethua.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Kethua\bin\Debug\Kethua.pdb
+D:\FPTEdu\T2104E\AP\Ngay05\Kethua\obj\Debug\Kethua.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Kethua\obj\Debug\Kethua.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Kethua\obj\Debug\Kethua.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Kethua\obj\Debug\Kethua.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Kethua\obj\Debug\Kethua.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay04\Kethua\bin\Debug\Kethua.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay04\Kethua\bin\Debug\Kethua.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay04\Kethua\bin\Debug\Kethua.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay04\Kethua\obj\Debug\Kethua.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay04\Kethua\obj\Debug\Kethua.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay04\Kethua\obj\Debug\Kethua.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay04\Kethua\obj\Debug\Kethua.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay04\Kethua\obj\Debug\Kethua.pdb

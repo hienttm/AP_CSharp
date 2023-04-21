@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\AP\Ngay06\Baitap_Mang_Class\bin\Debug\Baitap_Mang_Class.exe.config
+D:\FPTEdu\T2104E\AP\Ngay06\Baitap_Mang_Class\bin\Debug\Baitap_Mang_Class.exe
+D:\FPTEdu\T2104E\AP\Ngay06\Baitap_Mang_Class\bin\Debug\Baitap_Mang_Class.pdb
+D:\FPTEdu\T2104E\AP\Ngay06\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay06\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay06\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay06\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.exe
+D:\FPTEdu\T2104E\AP\Ngay06\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Baitap_Mang_Class\bin\Debug\Baitap_Mang_Class.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Baitap_Mang_Class\bin\Debug\Baitap_Mang_Class.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Baitap_Mang_Class\bin\Debug\Baitap_Mang_Class.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay05\Baitap_Mang_Class\obj\Debug\Baitap_Mang_Class.pdb
