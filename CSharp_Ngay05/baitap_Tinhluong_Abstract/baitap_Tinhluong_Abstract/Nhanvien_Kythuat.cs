@@ -14,13 +14,13 @@ namespace baitap_Tinhluong_Abstract
 		public override void Nhap()
 		{
 			base.Nhap();
-            Console.WriteLine("Nhập ngày công");
+            Console.WriteLine("Nhập ngày công của nhân viên kỹ thuật");
 			ngaycong = int.Parse(Console.ReadLine());
         }
         public override void Hienthi()
         {
             base.Hienthi();
-			Console.Write(" Ngày công: " + ngaycong);
+			Console.WriteLine(" Ngày công: " + ngaycong);
         }
         public override double Tinhluong()
         {
