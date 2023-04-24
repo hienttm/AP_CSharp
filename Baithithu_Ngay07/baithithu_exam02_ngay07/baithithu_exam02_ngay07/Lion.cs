@@ -11,6 +11,12 @@ namespace baithithu_exam02_ngay07
 		{
 
 		}
+        public override void SetMe(string name, double weight)
+            
+        {
+            base.SetMe(name, weight);
+        }
+        /*
         public override void SetMe()
         {
             Console.WriteLine("Input name of Lion: ");
@@ -18,6 +24,7 @@ namespace baithithu_exam02_ngay07
             Console.WriteLine("Input weight of Lion: ");
             weight = double.Parse(Console.ReadLine());
         }
+        */
         public override void Show()
         {
             Console.WriteLine("Name of Lion: {0} , Weight:{1}", name, weight);

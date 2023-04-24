@@ -3,14 +3,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Lion lion1 = new Lion();
-        lion1.SetMe();
-        lion1.Show();
+        Lion lion2 = new Lion();
+        lion2.SetMe("hien", 32);
+        lion2.Show();
 
-        Tiger tg1 = new Tiger();
-        tg1.SetMe();
-        tg1.Show();
-
+        Tiger tiger1 = new Tiger();
+        tiger1.SetMe("tiger 11", 87);
         Console.ReadKey();
     }
 }

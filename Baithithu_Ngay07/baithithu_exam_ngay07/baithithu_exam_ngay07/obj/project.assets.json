@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tranthimaihien/Projects/baithithu_exam_ngay07/baithithu_exam_ngay07/baithithu_exam_ngay07.csproj",
+      "projectUniqueName": "/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/Baithithu_Ngay07/baithithu_exam_ngay07/baithithu_exam_ngay07/baithithu_exam_ngay07.csproj",
       "projectName": "baithithu_exam_ngay07",
-      "projectPath": "/Users/tranthimaihien/Projects/baithithu_exam_ngay07/baithithu_exam_ngay07/baithithu_exam_ngay07.csproj",
+      "projectPath": "/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/Baithithu_Ngay07/baithithu_exam_ngay07/baithithu_exam_ngay07/baithithu_exam_ngay07.csproj",
       "packagesPath": "/Users/tranthimaihien/.nuget/packages/",
-      "outputPath": "/Users/tranthimaihien/Projects/baithithu_exam_ngay07/baithithu_exam_ngay07/obj/",
+      "outputPath": "/Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/Baithithu_Ngay07/baithithu_exam_ngay07/baithithu_exam_ngay07/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tranthimaihien/.nuget/NuGet/NuGet.Config"

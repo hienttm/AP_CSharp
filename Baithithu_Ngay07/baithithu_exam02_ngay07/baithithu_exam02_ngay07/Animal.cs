@@ -30,12 +30,19 @@ namespace baithithu_exam02_ngay07
 			set { this.weight = value; }
 			get { return weight; }
         }
+		/*
 		public virtual void SetMe()
 		{
 			Console.WriteLine("Input name of Animal: ");
 			name = Console.ReadLine();
 			Console.WriteLine("Input weight of Animal: ");
 			weight = double.Parse(Console.ReadLine());
+		}
+		*/
+        public virtual void SetMe(string name, double weight)
+		{
+			this.name = name;
+			this.weight = weight;
 		}
         public virtual void Show()
         {

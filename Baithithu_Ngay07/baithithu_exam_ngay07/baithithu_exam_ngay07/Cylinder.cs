@@ -3,52 +3,52 @@ namespace baithithu_exam_ngay07
 {
 	public class Cylinder
 	{
-		public double Radius;
-		public double Height;
-
+        private double radius;
+        private double height;
+        private double BaseArea, LateralArea, TotalArea, Volume;
         public Cylinder()
 		{
-			Radius = 0;
-			Height = 0;
+			radius = 0;
+			height = 0;
 		}
-		public Cylinder(double Radius, double Height)
+		public Cylinder(double radius, double height)
 		{
-			this.Radius = Radius;
-			this.Height = Height;
+			this.radius = radius;
+			this.height = height;
 		}
-		public double radius
+		public double Radius
 		{
-			get { return this.Radius; }
-			set { this.Radius = value; }
+			get { return this.radius; }
+			set { this.radius = value; }
 		}
-		public double height
+		public double Height
 		{
-			get { return this.Height; }
-			set { this.Height = value; }
+			get { return this.height; }
+			set { this.height = value; }
 		}
 
 		public void Nhap()
 		{
 			Console.WriteLine(" Nhập bán kính hình trụ:");
-			Radius = double.Parse(Console.ReadLine());
+			radius = double.Parse(Console.ReadLine());
 			Console.WriteLine("Nhập chiều cao hình trụ:");
-			Height = double.Parse(Console.ReadLine());
+			height = double.Parse(Console.ReadLine());
 		}
 		public void Hienthi()
 		{
 			Console.WriteLine("Cylinder Characteristics");
-			Console.WriteLine("Radius: {0}, Height: {1}", Radius, Height);
+			Console.WriteLine("Radius: {0}, Height: {1}", radius, height);
 		}
 
         
-        double BaseArea, LateralArea, TotalArea, Volume;
+        
         public void Process()
 		{
 			
-            BaseArea = Radius * Radius * Math.PI;
-            LateralArea = 2 * Math.PI * Radius * Height;
-            TotalArea = 2 * Math.PI * Radius * (Height + Radius);
-            Volume = Math.PI * Radius * Radius * Height;
+            BaseArea = radius * radius * Math.PI;
+            LateralArea = 2 * Math.PI * radius * height;
+            TotalArea = 2 * Math.PI * radius * (height + radius);
+            Volume = Math.PI * radius * radius * height;
         }
 		public void Result()
 		{

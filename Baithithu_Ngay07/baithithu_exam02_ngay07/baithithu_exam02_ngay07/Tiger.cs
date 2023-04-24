@@ -13,17 +13,26 @@ namespace baithithu_exam02_ngay07
 		{
 
 		}
-        public override void SetMe()
+        /*
+         * public override void SetMe()
         {
             Console.WriteLine("Input name of Tiger: ");
             name = Console.ReadLine();
             Console.WriteLine("Input weight of Tiger: ");
             weight = double.Parse(Console.ReadLine());
         }
+        */
+        public override void SetMe(string name, double weight)
+
+        {
+            base.SetMe(name, weight);
+        }
+       
         public override void Show()
         {
             Console.WriteLine("Name of Tiger: {0} , Weight:{1}", name, weight);
         }
     }
 }
+
 
