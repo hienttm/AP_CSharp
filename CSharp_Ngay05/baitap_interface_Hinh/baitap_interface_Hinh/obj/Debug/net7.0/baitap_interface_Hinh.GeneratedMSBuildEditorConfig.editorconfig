@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = baitap_interface_Hinh
+build_property.ProjectDir = /Users/tranthimaihien/Documents/fpt/SEM2/AP_CSharp/CSharp_Ngay05/baitap_interface_Hinh/baitap_interface_Hinh/

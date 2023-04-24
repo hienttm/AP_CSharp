@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F8A10249-F1DF-4850-A18A-EC0550666FB6}|Default">
+  <MonoDevelop.Ide.ItemProperties.baitap__interface__Hinh FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="baitap_interface_Hinh/Hinhvuong.cs">
+    <Files>
+      <File FileName="baitap_interface_Hinh/Program.cs" />
+      <File FileName="baitap_interface_Hinh/iHinh.cs" />
+      <File FileName="baitap_interface_Hinh/Hinhchunhat.cs" Line="43" Column="17" />
+      <File FileName="baitap_interface_Hinh/Hinhvuong.cs" Line="35" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="baitap_interface_Hinh" expanded="True">
+            <Node name="baitap_interface_Hinh" expanded="True">
+              <Node name="Hinhvuong.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{F6986792-38BC-4B29-8C6E-61BF554BDC47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="baitap_Tinhluong_Abstract/Nhanvien.cs">
+    <Files>
+      <File FileName="../02_Demo_Interface/iHinh.cs" Line="1" Column="1" />
+      <File FileName="baitap_Tinhluong_Abstract/Nhanvien.cs" Line="16" Column="3" />
+      <File FileName="baitap_Tinhluong_Abstract/Nhanvienkinhdoanh.cs" Line="1" Column="1" />
+      <File FileName="baitap_Tinhluong_Abstract/Program.cs" Line="1" Column="1" />
+      <File FileName="baitap_Tinhluong_Abstract/Nhanvien_Kythuat.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="baitap_Tinhluong_Abstract" expanded="True">
+            <Node name="baitap_Tinhluong_Abstract" expanded="True">
+              <Node name="Nhanvien.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.baitap__Tinhluong__Abstract PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.baitap__Tinhluong__Abstract FirstBuild="True" />
 </Properties>

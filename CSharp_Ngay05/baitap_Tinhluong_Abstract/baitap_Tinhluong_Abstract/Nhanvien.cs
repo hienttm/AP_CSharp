@@ -13,6 +13,7 @@ namespace baitap_Tinhluong_Abstract
 			this.hoten = hoten;
 			this.luongcb = luongcb;
 		}
+		
         public virtual void Nhap()
 		{
 			Console.WriteLine("Nhập thông tin nhân viên:");
