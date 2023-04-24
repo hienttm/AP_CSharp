@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "baithithu_exam02_ngay07/1.0.0": {
+        "runtime": {
+          "baithithu_exam02_ngay07.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "baithithu_exam02_ngay07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
