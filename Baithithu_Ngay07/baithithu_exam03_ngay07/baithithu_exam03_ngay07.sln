@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baithithu_exam03_ngay07", "baithithu_exam03_ngay07\baithithu_exam03_ngay07.csproj", "{86628B64-CBB6-4B49-B62F-468BE7464676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86628B64-CBB6-4B49-B62F-468BE7464676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86628B64-CBB6-4B49-B62F-468BE7464676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86628B64-CBB6-4B49-B62F-468BE7464676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86628B64-CBB6-4B49-B62F-468BE7464676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9CF0D8-0A0E-44BE-B00A-630AD87AD0CD}
+	EndGlobalSection
+EndGlobal

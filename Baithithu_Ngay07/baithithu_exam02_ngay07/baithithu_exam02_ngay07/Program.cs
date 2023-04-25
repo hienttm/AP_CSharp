@@ -9,7 +9,9 @@ class Program
 
         Tiger tiger1 = new Tiger();
         tiger1.SetMe("tiger 11", 87);
+        tiger1.Show();
         Console.ReadKey();
+        
     }
 }
 

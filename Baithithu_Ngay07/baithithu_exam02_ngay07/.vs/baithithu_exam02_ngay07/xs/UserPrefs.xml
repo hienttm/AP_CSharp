@@ -1,28 +1,27 @@
 ﻿<Properties StartupConfiguration="{9AF382C9-B615-4204-B15B-894656C21D90}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="baithithu_exam02_ngay07/Lion.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="baithithu_exam02_ngay07/Program.cs">
     <Files>
-      <File FileName="baithithu_exam02_ngay07/Program.cs" Line="12" Column="20" />
-      <File FileName="baithithu_exam02_ngay07/Animal.cs" Line="42" Column="13" />
-      <File FileName="baithithu_exam02_ngay07/Lion.cs" Line="14" Column="37" />
-      <File FileName="baithithu_exam02_ngay07/Tiger.cs" Line="29" Column="1" />
+      <File FileName="baithithu_exam02_ngay07/Program.cs" Line="14" Column="9" />
+      <File FileName="baithithu_exam02_ngay07/Animal.cs" />
+      <File FileName="baithithu_exam02_ngay07/Lion.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="baithithu_exam02_ngay07" expanded="True">
             <Node name="baithithu_exam02_ngay07" expanded="True">
-              <Node name="Lion.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.baithithu__exam02__ngay07 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.baithithu__exam02__ngay07 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
