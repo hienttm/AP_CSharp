@@ -1,0 +1,8 @@
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Exception_Nhapso\bin\Debug\Vidu_Exception_Nhapso.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Exception_Nhapso\bin\Debug\Vidu_Exception_Nhapso.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Exception_Nhapso\bin\Debug\Vidu_Exception_Nhapso.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Exception_Nhapso\obj\Debug\Vidu_Exception_Nhapso.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Exception_Nhapso\obj\Debug\Vidu_Exception_Nhapso.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Exception_Nhapso\obj\Debug\Vidu_Exception_Nhapso.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Exception_Nhapso\obj\Debug\Vidu_Exception_Nhapso.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Exception_Nhapso\obj\Debug\Vidu_Exception_Nhapso.pdb

@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{86628B64-CBB6-4B49-B62F-468BE7464676}|Default">
-  <MonoDevelop.Ide.ItemProperties.baithithu__exam03__ngay07 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.baithithu__exam03__ngay07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="baithithu_exam03_ngay07/Program.cs">
+    <Files>
+      <File FileName="baithithu_exam03_ngay07/Product.cs" Line="55" Column="4" />
+      <File FileName="baithithu_exam03_ngay07/ProductList.cs" />
+      <File FileName="baithithu_exam03_ngay07/Program.cs" Line="31" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="baithithu_exam03_ngay07" expanded="True">
+            <Node name="baithithu_exam03_ngay07" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

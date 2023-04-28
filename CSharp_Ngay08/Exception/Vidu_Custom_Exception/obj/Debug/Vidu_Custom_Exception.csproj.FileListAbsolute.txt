@@ -1,0 +1,8 @@
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Custom_Exception\bin\Debug\Vidu_Custom_Exception.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Custom_Exception\bin\Debug\Vidu_Custom_Exception.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Custom_Exception\bin\Debug\Vidu_Custom_Exception.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Custom_Exception\obj\Debug\Vidu_Custom_Exception.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Custom_Exception\obj\Debug\Vidu_Custom_Exception.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Custom_Exception\obj\Debug\Vidu_Custom_Exception.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Custom_Exception\obj\Debug\Vidu_Custom_Exception.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_Custom_Exception\obj\Debug\Vidu_Custom_Exception.pdb

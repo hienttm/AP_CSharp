@@ -3,7 +3,8 @@ namespace baithithu_exam03_ngay07
 {
 	public class Product
 	{
-		private string productId;
+        
+        private string productId;
 		private string name;
 		private double price;
 		public Product()
@@ -45,12 +46,12 @@ namespace baithithu_exam03_ngay07
 		
 		public void display()
 		{
-			//Console.WriteLine("ProductId: {0} , name: {1} , price: {2}", productId, name, price);
-			//Console.Write(String.Format("{0,30}", productId));
+			string str = string.Format("{0,-1} {1,-1} {2,-5}", productId, name, price);
+			Console.WriteLine(str);
 			//Console.Write(string.Format("{0,20}", name));
 			//Console.Write(string.Format("${0,10}", price));
-			//Console.WriteLine($"{productId,-20} {name,-20} {price,-10}");
-			Console.WriteLine("{0,10){0,10}{1,10}", productId, name, price);
+			//Console.WriteLine($"{productId,-20} | {name,-20} | {price,-10}");
+			
 		}
 		
 	}

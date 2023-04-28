@@ -25,6 +25,7 @@ namespace baithithu_exam03_ngay07
 					}
                 }
                 productList.Add(newProduct);
+				Console.WriteLine("Input thành công"); 
                 Console.WriteLine("Tiếp tục?(c/k)");
                 res = Console.ReadLine();
                 if (res.CompareTo("k") == 0)

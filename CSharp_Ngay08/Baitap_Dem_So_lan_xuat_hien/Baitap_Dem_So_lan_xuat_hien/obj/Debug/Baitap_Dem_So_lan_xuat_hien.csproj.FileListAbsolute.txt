@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\AP\Ngay10\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\bin\Debug\Baitap_Dem_So_lan_xuat_hien.exe.config
+D:\FPTEdu\T2104E\AP\Ngay10\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\bin\Debug\Baitap_Dem_So_lan_xuat_hien.exe
+D:\FPTEdu\T2104E\AP\Ngay10\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\bin\Debug\Baitap_Dem_So_lan_xuat_hien.pdb
+D:\FPTEdu\T2104E\AP\Ngay10\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay10\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay10\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay10\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.exe
+D:\FPTEdu\T2104E\AP\Ngay10\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.pdb
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\bin\Debug\Baitap_Dem_So_lan_xuat_hien.exe.config
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\bin\Debug\Baitap_Dem_So_lan_xuat_hien.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\bin\Debug\Baitap_Dem_So_lan_xuat_hien.pdb
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Baitap_Dem_So_lan_xuat_hien\Baitap_Dem_So_lan_xuat_hien\obj\Debug\Baitap_Dem_So_lan_xuat_hien.pdb

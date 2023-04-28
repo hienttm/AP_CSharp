@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Namespace\bin\Debug\Demo_Namespace.exe.config
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Namespace\bin\Debug\Demo_Namespace.exe
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Namespace\bin\Debug\Demo_Namespace.pdb
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Namespace\obj\Debug\Demo_Namespace.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Namespace\obj\Debug\Demo_Namespace.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Namespace\obj\Debug\Demo_Namespace.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Namespace\obj\Debug\Demo_Namespace.exe
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Namespace\obj\Debug\Demo_Namespace.pdb

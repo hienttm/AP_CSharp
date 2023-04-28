@@ -26,6 +26,7 @@ class Program
         Console.WriteLine("2.Display Products records ");
         Console.WriteLine("3.Delete product by Id");
         Console.WriteLine("4.Exit");
+        
         chon = inputInt();
         return chon;
     }

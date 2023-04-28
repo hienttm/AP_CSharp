@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidu_Custom_Exception", "Vidu_Custom_Exception.csproj", "{8869852A-B021-4210-B172-742B21240A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8869852A-B021-4210-B172-742B21240A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8869852A-B021-4210-B172-742B21240A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8869852A-B021-4210-B172-742B21240A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8869852A-B021-4210-B172-742B21240A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {356444A0-3EC6-4D5A-9896-0AADECAE9FC8}
+	EndGlobalSection
+EndGlobal

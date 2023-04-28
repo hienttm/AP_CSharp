@@ -1,0 +1,8 @@
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_NameSpace\bin\Debug\Vidu_NameSpace.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_NameSpace\bin\Debug\Vidu_NameSpace.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_NameSpace\bin\Debug\Vidu_NameSpace.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_NameSpace\obj\Debug\Vidu_NameSpace.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_NameSpace\obj\Debug\Vidu_NameSpace.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_NameSpace\obj\Debug\Vidu_NameSpace.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_NameSpace\obj\Debug\Vidu_NameSpace.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay07\Vidu_NameSpace\obj\Debug\Vidu_NameSpace.pdb

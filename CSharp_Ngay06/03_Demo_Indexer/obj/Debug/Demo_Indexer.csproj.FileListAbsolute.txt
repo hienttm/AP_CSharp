@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\bin\Debug\Demo_Indexer.exe.config
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\bin\Debug\Demo_Indexer.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\bin\Debug\Demo_Indexer.pdb
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.pdb

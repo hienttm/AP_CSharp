@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Nhapso1\bin\Debug\Demo_Nhapso1.exe.config
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Nhapso1\bin\Debug\Demo_Nhapso1.exe
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Nhapso1\bin\Debug\Demo_Nhapso1.pdb
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Nhapso1\obj\Debug\Demo_Nhapso1.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Nhapso1\obj\Debug\Demo_Nhapso1.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Nhapso1\obj\Debug\Demo_Nhapso1.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Nhapso1\obj\Debug\Demo_Nhapso1.exe
+D:\FPTEdu\T2104E\AP\Ngay08\Demo_Nhapso1\obj\Debug\Demo_Nhapso1.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Namespace", "Demo_Namespace.csproj", "{928A56AC-6CDA-43DC-899B-E21D14646F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Namespace_nhieucap", "..\Demo_Namespace_nhieucap\Demo_Namespace_nhieucap.csproj", "{055ECEE9-1B6C-490B-9D68-00D168AF852D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928A56AC-6CDA-43DC-899B-E21D14646F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928A56AC-6CDA-43DC-899B-E21D14646F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928A56AC-6CDA-43DC-899B-E21D14646F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928A56AC-6CDA-43DC-899B-E21D14646F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055ECEE9-1B6C-490B-9D68-00D168AF852D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055ECEE9-1B6C-490B-9D68-00D168AF852D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055ECEE9-1B6C-490B-9D68-00D168AF852D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055ECEE9-1B6C-490B-9D68-00D168AF852D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB7EEE9-E8FC-4848-930D-84BD1AB6EFB2}
+	EndGlobalSection
+EndGlobal
