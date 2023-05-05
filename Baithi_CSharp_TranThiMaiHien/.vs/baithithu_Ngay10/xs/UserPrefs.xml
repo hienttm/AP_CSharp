@@ -1,10 +1,13 @@
-﻿<Properties StartupConfiguration="{47CCC4E3-BF90-4A54-933F-0E8F66BF71B1}|Default">
+﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>baithithu_Ngay10/baithithu_Ngay10.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="baithithu_Ngay10/Phone.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="baithit_CSharp_TranThiMaiHien/Program.cs">
     <Files>
-      <File FileName="baithithu_Ngay10/Program.cs" Line="21" Column="27" />
+      <File FileName="baithithu_Ngay10/Program.cs" Line="19" Column="1" />
       <File FileName="baithithu_Ngay10/Product.cs" Line="36" Column="24" />
       <File FileName="baithithu_Ngay10/Book.cs" Line="15" Column="4" />
       <File FileName="baithithu_Ngay10/Phone.cs" Line="15" Column="30" />
@@ -12,16 +15,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="baithithu_Ngay10" expanded="True">
-            <Node name="baithithu_Ngay10" expanded="True">
-              <Node name="Phone.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="baithithu_Ngay10" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.baithithu__Ngay10 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

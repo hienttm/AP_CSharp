@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C73E8CBF-16A4-4079-BA61-E8EA7AB73291}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.baitap__quanly__Tudien PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="baitap_quanly_Tudien/Tudien.cs">
+    <Files>
+      <File FileName="baitap_quanly_Tudien/Program.cs" Line="14" Column="26" />
+      <File FileName="baitap_quanly_Tudien/Tudien.cs" Line="53" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="baitap_quanly_Tudien" expanded="True">
+            <Node name="baitap_quanly_Tudien" expanded="True">
+              <Node name="Tudien.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
