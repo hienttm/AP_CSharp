@@ -3,8 +3,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        double totalBookTax=0;
-        double totalPhoneTax = 0;
+        double tongthue=0;
+
         Product[] list = new Product[5];
         list[0] = new Book("B01", "Hello ", 100000);
         list[1] = new Book("B02", "Titanic", 555000);
@@ -12,18 +12,12 @@ class Program
         list[3] = new Phone("P01", "Iphone 11", 18000000);
         list[4] = new Phone("P02", "Iphone 13", 25000000);
 
-        foreach(Product product in list)
+        for(int i = 0; i < 5; i++)
         {
-            if(product is Book)
-            {
-                totalBookTax += product.computeTax();
-            }else if(product is Phone)
-            {
-                totalPhoneTax += product.computeTax();
-            }
+            Console.WriteLine("ProductId: {0}, Name: {1}, Price: {2}", list[i].productId, list[i].name, list[i].price);
+            tongthue += list[i].computeTax();
         }
-        Console.WriteLine("Total tax of Book:" + totalBookTax);
-        Console.WriteLine("Total tax of Phone:" + totalPhoneTax);
+        Console.WriteLine("total tax of Book and Phone:" + tongthue);
         Console.ReadKey();
     }
 }

@@ -1,26 +1,24 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
   <DisabledProjects>
     <String>baithithu_Ngay10/baithithu_Ngay10.csproj</String>
   </DisabledProjects>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="baithit_CSharp_TranThiMaiHien/Program.cs">
-    <Files>
-      <File FileName="baithithu_Ngay10/Program.cs" Line="19" Column="1" />
-      <File FileName="baithithu_Ngay10/Product.cs" Line="36" Column="24" />
-      <File FileName="baithithu_Ngay10/Book.cs" Line="15" Column="4" />
-      <File FileName="baithithu_Ngay10/Phone.cs" Line="15" Column="30" />
-    </Files>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <AuthorInfo Name="tranthimaihien" Email="hienttm.aof@gmail.com" Copyright="" Company="" Trademark="" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="baithithu_Ngay10" expanded="True" />
+          <Node name="baithithu_Ngay10" expanded="True">
+            <Node name="baithithu_Ngay10" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
